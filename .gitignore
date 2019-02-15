@@ -1,5 +1,15 @@
 .gradle
+.gitignore
 local.properties
 .idea
 /build
 *.iml
+*.jar
+aware-tests/src/main/gen/com/aware/tests/R.java
+aware-core/gradlew.bat
+aware-phone/gradlew
+aware-phone/gradlew.bat
+aware-core/src/main/gen
+aware-phone/src/main/gen
+aware-tests/src/main/gen/com/aware/tests/BuildConfig.java
+aware-core/gradlew
